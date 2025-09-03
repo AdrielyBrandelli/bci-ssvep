@@ -15,7 +15,7 @@ Este repositório contém minha atividade prática da disciplina *IA006 – Intr
 
 - `relatorio.pdf`: relatório técnico com análise dos resultados
 - `questoes.md`: questões teóricas da atividade
-- `notebook/`: notebook original com código base em Python
+- `notebook.ipynb`: notebook original com código base em Python
 
 ## Cenário abordado: BCI-SSVEP
 
